@@ -24,25 +24,12 @@ Token ID:
 
 **TRADING**
 
-Trade	To/From	Price	Exchange
-Buy StableBCH from
-	Other holders / Token owner	0.00000001 BCH per token	MintBot in 
-
-@ganniumtokengroup Telegram group
-
-Sell StableBCH to
-	Other holders / Token owner	0.00000001 BCH per token	MintBot in 
-
-@ganniumtokengroup Telegram group
-
-
+Buy StableBCH from Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
+Sell StableBCH to Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
 
 **MINTING**
 
-First minting on 6th June 2021
-
-Initial minting is 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
-
+First minting on 6th June 2021. Initial minting is 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
 
 **HOW TO GET STARTED?**
 
@@ -77,6 +64,10 @@ Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s 
 - [Zapit Wallet](https://play.google.com/store/apps/details?id=io.wallet.zapit) 
 - [Bitcoin.com wallet](https://play.google.com/store/search?q=bitcoin.com)
 - [Badger wallet](https://play.google.com/store/apps/details?id=com.badgermobile)
+
+
+## GANNIUM TOKEN (Buy and participate in dividends)
+Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 
 ## FIBONACCI TOKEN (Tipping Token for Gannium holders)
 Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
