@@ -1,6 +1,6 @@
 # StableBCH
 
-StableBCH is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH.
+**StableBCH** is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH.
 
 ![](http://sankarsrinivasan.com/personal/stablebchlogo.png)
 # StableBCH : Crypto backed Stable SLP Token
@@ -8,7 +8,7 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 
 - **StableBCH** is a Crypto backed Stable SLP token, created under Bitcoin Cash Blockchain
 
-- 1 BCH is equal to 100 million StableBCH (the same as BCH Satoshis)
+- 1 BCH is equal to 100 million **StableBCH** (the same as BCH Satoshis)
 
 - Parking 1 BitcoinCash doesn't gain any profit. Utilise the price movements to gain some profit. 
 
@@ -18,20 +18,20 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 
 Token ID: 
 
-- Buy/Sell at Gannium Telegram group (@ganniumtokengroup) by using MintBot, without any charges. After getting experience, StableBCH will be listed on memo.cash and other exchanges.
+- Buy/Sell at Gannium Telegram group (@ganniumtokengroup) by using MintBot, without any charges. After getting experience, **StableBCH** will be listed on memo.cash and other exchanges.
 
-- Buy from and Sell to other holders, or StableBCH promoter
+- Buy from and Sell to other holders, or **StableBCH** promoter
 
-- Each minting will be backed by real BCH, to stabilize the price.
+- Each minting will be backed by **real BCH**, to stabilize the price.
 
 **TRADING**
 
-Buy StableBCH from Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
-Sell StableBCH to Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
+Buy **StableBCH** from Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
+Sell **StableBCH** to Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
 
 **MINTING**
 
-First minting 2 Million StableBCH (equals 0.02 BCH) on 6th June 2021, to test. Next minting will be 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
+First minting 2 Million **StableBCH** (equals 0.02 BCH) on 6th June 2021, to test. Next minting will be 100 Million **StableBCH**, which is equal to 1 BCH. Further mintings are  based on further BCH investments.
 
 **HOW TO GET STARTED?**
 
@@ -44,7 +44,7 @@ First minting 2 Million StableBCH (equals 0.02 BCH) on 6th June 2021, to test. N
 
 **TRADING COMMANDS in @ganniumtokengroup**
 
-If you want to buy 100000 StableBCH, type following line in Gannium Token Group (@ganniumtokengroup)
+If you want to buy 100000 **StableBCH**, type following line in Gannium Token Group (@ganniumtokengroup)
 
 #buy 100000 StableBCH for BCH 
 
@@ -52,13 +52,12 @@ After entering this line, sellers may contact you. Choose a seller, and select s
 
 Send 0.00100000 BCH
 
-Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s MintBot wallet. Then, seller will send you 100000 StableBCH to you like this. Confirm everything before “Send” command.
+Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s MintBot wallet. Then, seller will send you 100000 **StableBCH** to you like this. Confirm everything before “Send” command.
 
 ## Links
 
-- [Coin Ranking](https://coinranking.com/coin/g6GVyoWZb+gannium-gannium/)
 - [Block Explorer](https://explorer.bitcoin.com/bch/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca)
-- [Buy / Sell](https://memo.cash/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca?for-sale)
+- [Buy / Sell](https://t.me/ganniumtokengroup)
 - [Buy NFT](https://mintable.app/u/sankarsrinivasan)
 
 ## Supported Wallets
