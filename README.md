@@ -31,7 +31,7 @@ Sell StableBCH to Other holders / Token owner for the price 0.00000001 BCH per t
 
 **MINTING**
 
-First minting on 6th June 2021. Initial minting is 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
+First minting 2 Million StableBCH (equals 0.02 BCH) on 6th June 2021, to test. Next minting will be 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
 
 **HOW TO GET STARTED?**
 
