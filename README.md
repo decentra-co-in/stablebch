@@ -22,7 +22,7 @@ Token ID:
 
 - Each minting will be backed by real BCH, to stabilize the price.
 
-TRADING
+**TRADING**
 
 Trade	To/From	Price	Exchange
 Buy StableBCH from
@@ -37,14 +37,14 @@ Sell StableBCH to
 
 
 
-MINTING
+**MINTING**
 
 First minting on 6th June 2021
 
 Initial minting is 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
 
 
-HOW TO GET STARTED?
+**HOW TO GET STARTED?**
 
 1)	Join @ganniumtokengroup in Telegram messenger
 2)	Search “MintBot” in telegram and click “Start”
@@ -53,7 +53,7 @@ HOW TO GET STARTED?
 5)	In @ganniumtokengroup, participate in Gannium & Fibonacci airdrops and trade StableBCH too.
 
 
-TRADING COMMANDS in @ganniumtokengroup
+**TRADING COMMANDS in @ganniumtokengroup**
 
 If you want to buy 100000 StableBCH, type following line in Gannium Token Group (@ganniumtokengroup)
 
