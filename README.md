@@ -5,7 +5,8 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 ![](http://sankarsrinivasan.com/personal/ganniumlogo.png)
 # StableBCH : Crypto backed Stable SLP Token
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
-- StableBCH is a Crypto backed Stable SLP token, created under Bitcoin Cash Blockchain
+
+- **StableBCH** is a Crypto backed Stable SLP token, created under Bitcoin Cash Blockchain
 
 - 1 BCH is equal to 100 million StableBCH (the same as BCH Satoshis)
 
@@ -13,9 +14,7 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 
 - When BCH is at $500, buy 10 million StableBCH for 0.1BCH, equal to $50. When BCH price rises to $700, sell 10 million StableBCH for the same 0.1BCH, equals to $70. Same like BCH trading.
 
-**Gannium Token** 
-
-Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
+Token ID: 
 
 **AIRDROP** Join Telegram channel https://t.me/ganniumtokengroup for immediate reward. 
 
