@@ -26,8 +26,8 @@ Token ID:
 
 **TRADING**
 
-Buy **StableBCH** from Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
-Sell **StableBCH** to Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
+- Buy **StableBCH** from Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
+- Sell **StableBCH** to Other holders / Token owner for the price 0.00000001 BCH per token @ganniumtokengroup Telegram group
 
 **MINTING**
 
