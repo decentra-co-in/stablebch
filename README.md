@@ -14,6 +14,8 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 
 - When BCH is at $500, buy 10 million StableBCH for 0.1BCH, equal to $50. When BCH price rises to $700, sell 10 million StableBCH for the same 0.1BCH, equals to $70. Same like BCH trading.
 
+![](http://sankarsrinivasan.com/personal/bch1.png)
+
 Token ID: 
 
 - Buy/Sell at Gannium Telegram group (@ganniumtokengroup) by using MintBot, without any charges. After getting experience, StableBCH will be listed on memo.cash and other exchanges.
@@ -77,3 +79,4 @@ Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
 - BCH - bitcoincash:qp644pceseh24lrvjjxmglh5kgxzda0z8sfvyjks77
 - SLP - simpleledger:qp2qa3l56gke4dqcceeh3kwhdk3y75amh5atq3vnag
 
+![](http://sankarsrinivasan.com/personal/2.png)
