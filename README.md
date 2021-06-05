@@ -3,13 +3,15 @@
 StableBCH is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH.
 
 ![](http://sankarsrinivasan.com/personal/ganniumlogo.png)
-# Gannium : Trader's Token (Dividend earning)
+# StableBCH : Crypto backed Stable SLP
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
-Gannium is a SLP token, created under Bitcoin Cash's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Exchange at ccTip and memo.cash
+- StableBCH is a Crypto backed Stable SLP token, created under Bitcoin Cash Blockchain
 
-Gannium stopped token sales, and anyone can own Gannium Token by participating airdrops, giveaways, games and dApps. 
+- 1 BCH is equal to 100 million StableBCH (the same as BCH Satoshis)
 
-All Gannium holders are eligible for dividends in BCH, Fibonacci Tokens and Gannium Tokens.
+- Parking 1 BitcoinCash doesn't gain any profit. Utilise the price movements to gain some profit. 
+
+- When BCH is at $500, buy 10 million StableBCH for 0.1BCH, equal to $50. When BCH price rises to $700, sell 10 million StableBCH for the same 0.1BCH, equals to $70. Same like BCH trading.
 
 **Gannium Token** 
 
