@@ -16,7 +16,54 @@ StableBCH is crypto backed stable token, created in Simple Ledger Protocol under
 
 Token ID: 
 
-**AIRDROP** Join Telegram channel https://t.me/ganniumtokengroup for immediate reward. 
+- Buy/Sell at Gannium Telegram group (@ganniumtokengroup) by using MintBot, without any charges. After getting experience, StableBCH will be listed on memo.cash and other exchanges.
+
+- Buy from and Sell to other holders, or StableBCH promoter
+
+- Each minting will be backed by real BCH, to stabilize the price.
+
+TRADING
+
+Trade	To/From	Price	Exchange
+Buy StableBCH from
+	Other holders / Token owner	0.00000001 BCH per token	MintBot in 
+
+@ganniumtokengroup Telegram group
+
+Sell StableBCH to
+	Other holders / Token owner	0.00000001 BCH per token	MintBot in 
+
+@ganniumtokengroup Telegram group
+
+
+
+MINTING
+
+First minting on 6th June 2021
+
+Initial minting is 100 Million StableBCH, which is equal to 1 BCH. Further minting is based on further BCH investment.
+
+
+HOW TO GET STARTED?
+
+1)	Join @ganniumtokengroup in Telegram messenger
+2)	Search “MintBot” in telegram and click “Start”
+3)	Type “Deposit BCH” in MintBot and note the BCH wallet address.
+4)	Buy BCH on exchanges and transfer to your MintBot BCH wallet address.
+5)	In @ganniumtokengroup, participate in Gannium & Fibonacci airdrops and trade StableBCH too.
+
+
+TRADING COMMANDS in @ganniumtokengroup
+
+If you want to buy 100000 StableBCH, type following line in Gannium Token Group (@ganniumtokengroup)
+
+#buy 100000 StableBCH for BCH 
+
+After entering this line, sellers may contact you. Choose a seller, and select seller’s message for a moment. Then tap on “Reply” and type 
+
+Send 0.00100000 BCH
+
+Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s MintBot wallet. Then, seller will send you 100000 StableBCH to you like this. Confirm everything before “Send” command.
 
 ## Links
 
@@ -30,14 +77,6 @@ Token ID:
 - [Zapit Wallet](https://play.google.com/store/apps/details?id=io.wallet.zapit) 
 - [Bitcoin.com wallet](https://play.google.com/store/search?q=bitcoin.com)
 - [Badger wallet](https://play.google.com/store/apps/details?id=com.badgermobile)
-
-
-## Gannium listed Exchanges
-
-- [ccTip](https://cctip.io) Exchange for other crypto currencies
-- [Memo.cash](https://memo.cash/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca?for-sale) Exchange for Bitcoin cash
-
-![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
 ## FIBONACCI TOKEN (Tipping Token for Gannium holders)
 Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
