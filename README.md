@@ -2,7 +2,7 @@
 
 StableBCH is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH.
 
-![](http://sankarsrinivasan.com/personal/ganniumlogo.png)
+![](http://sankarsrinivasan.com/personal/stablebchlogo.png)
 # StableBCH : Crypto backed Stable SLP Token
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
 
