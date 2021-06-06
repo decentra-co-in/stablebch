@@ -56,7 +56,7 @@ Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s 
 
 ## Links
 
-- [Block Explorer](https://explorer.bitcoin.com/bch/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca)
+- [Block Explorer](https://explorer.bitcoin.com/bch/token/b846c3b06ca2a949f4f2fb5e91d8c742806849635f4f15d74ebb72e1c09bfe77)
 - [Buy / Sell](https://t.me/ganniumtokengroup)
 - [Buy NFT](https://mintable.app/u/sankarsrinivasan)
 
