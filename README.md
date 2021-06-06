@@ -35,12 +35,12 @@ First minting 2 Million **StableBCH** (equals 0.02 BCH) on 6th June 2021, to tes
 
 **HOW TO GET STARTED?**
 
-1)	Join @ganniumtokengroup in Telegram messenger
-2)	Search “MintBot” in telegram and click “Start”
-3)	Type “Deposit BCH” in MintBot and note the BCH wallet address.
-4)	Buy BCH on exchanges and transfer to your MintBot BCH wallet address.
-5)	In @ganniumtokengroup, participate in Gannium & Fibonacci airdrops and trade StableBCH too.
-
+1)	Install Telegram messenger in your mobile. 
+2)	Visit https://t.me/cctip_bot?start=9i6yxsk in your mobile browser. It leads to ccTip Bot. Click "Start" and "Join the Group". 
+3)	You have joined in "Gannium Token" group (@ganniumtokengroup) in Telegram messenger
+4)	Come out, Search “MintBot” in telegram and click “Start”
+5)	Come out, and open "ccTip Bot" again and type "Deposit BCH" and note generated BCH wallet address
+6)	Buy BCH on exchanges and transfer to your ccTip Bot BCH wallet address. You are ready to trade.
 
 **TRADING COMMANDS in @ganniumtokengroup**
 
@@ -50,9 +50,9 @@ If you want to buy 100000 **StableBCH**, type following line in Gannium Token Gr
 
 After entering this line, sellers may contact you. Choose a seller, and select seller’s message for a moment. Then tap on “Reply” and type 
 
-Send 0.00100000 BCH
+CC 0.00100000 BCH
 
-Now, 0.00100000 BCH is being transferred from your MintBot wallet to seller’s MintBot wallet. Then, seller will send you 100000 **StableBCH** to you like this. Confirm everything before “Send” command.
+Now, 0.00100000 BCH is being transferred from your ccTip Bot wallet to seller’s ccTip Bot wallet. Then, seller will send you 100000 **StableBCH** to you like this. Confirm everything before “Send” command.
 
 ## Links
 
@@ -74,6 +74,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 ## FIBONACCI TOKEN (Tipping Token for Gannium holders)
 Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
 
+**Participate in everyday airdrops in @ganniumtokengroup**
 
 ### Support our Project
 - BCH - bitcoincash:qp644pceseh24lrvjjxmglh5kgxzda0z8sfvyjks77
