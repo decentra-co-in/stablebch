@@ -1,6 +1,6 @@
 # StableBCH
 
-**StableBCH** is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH.
+**StableBCH** is crypto backed stable token, created in Simple Ledger Protocol under Bitcoin Cash Blockchain. Each token costs 0.00000001 BCH. StableBCH earns dividend in same token.
 
 ![](http://sankarsrinivasan.com/personal/stablebchlogo.png)
 # StableBCH : Crypto backed Stable SLP Token
@@ -36,11 +36,12 @@ First minting 2 Million **StableBCH** (equals 0.02 BCH) on 6th June 2021, to tes
 **HOW TO GET STARTED?**
 
 1)	Install Telegram messenger in your mobile. 
-2)	Visit https://t.me/cctip_bot?start=9i6yxsk in your mobile browser. It leads to ccTip Bot. Click "Start" and "Join the Group". 
+2)	Visit https://t.me/ganniumtokengroup in your mobile browser. It leads to Gannium Token Group. Click "Start" and "Join the Group". 
 3)	You have joined in "Gannium Token" group (@ganniumtokengroup) in Telegram messenger
 4)	Come out, Search “MintBot” in telegram and click “Start”
-5)	Come out, and open "ccTip Bot" again and type "Deposit BCH" and note generated BCH wallet address
+5)	Come out, Search "ccTip Bot" in telegram and click "Start"
 6)	Buy BCH on exchanges and transfer to your ccTip Bot BCH wallet address. You are ready to trade.
+7)	If any doubts, contact @sankarsrinivasan in Telegram Messenger.
 
 **TRADING COMMANDS in @ganniumtokengroup**
 
