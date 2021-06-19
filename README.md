@@ -31,7 +31,7 @@ Token ID: b846c3b06ca2a949f4f2fb5e91d8c742806849635f4f15d74ebb72e1c09bfe77
 
 **MINTING**
 
-First minting 2 Million **StableBCH** (equals 0.02 BCH) on 6th June 2021, to test. Next minting will be 100 Million **StableBCH**, which is equal to 1 BCH. Further mintings are  based on further BCH investments.
+First minting 2 Million **StableBCH** (equals 0.02 BCH) on 6th June 2021, to test. Second minting 100 Million **StableBCH**, which is equal to 1 BCH. Further mintings are  based on further BCH investments.
 
 **HOW TO GET STARTED?**
 
